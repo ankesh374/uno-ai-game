@@ -40,8 +40,7 @@ It supports multiple players:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ankesh374/uno-ai-game.git
-   cd uno-ai-game
+   https://github.com/ankesh374/uno-ai-game.git
 
 ## How to Play
 
